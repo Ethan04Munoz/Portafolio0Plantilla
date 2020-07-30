@@ -1,0 +1,15 @@
+//Assets
+
+Dentro de esa arpeta tengo colocado la carpeta de css, js y fonts, cada una con sus respectivos archivos.
+
+En la carpeta de images, (Ubicada dentro de la carpeta raíz) van todas las imagenes del proyecto, excepto una, que esta en 
+la siguiente ruta assets/css/images
+
+En la carpeta de favicon esta colocado el icono de la página.
+
+Este portafolio parte de una plantilla, pero tiene multiples ediciones.
+
+TODAS las páginas (.html) están directo en la carpeta raíz.
+
+index.html es por supuesto la página principal, de ahí se derivan certificados.html, donde están los certificados.
+y las páginas de los proyectos.
